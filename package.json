@@ -1,12 +1,12 @@
 {
-  "name": "nahla-qa-obuka-ispit",
+  "name": "test-automation-js-selenium",
   "version": "1.0.0",
   "scripts": {
     "test": "mocha --timeout 30000"
   },
   "author": "Ahmet Mulalic",
   "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
-  "description": "Rjesenje zavrsnog ispita na 'Nahla' kursu 'QA obuka - Automatizacija testiranja koristenje Seleniuma i JavaScripta' ",
+  "description": "Rjesenje zavrsnog ispita na 'Nahla' kursu 'QA obuka - Automatizacija testiranja u Seleniumu i JavaScriptu' ",
   "type": "module",
   "dependencies": {
     "chai": "^5.1.2",
